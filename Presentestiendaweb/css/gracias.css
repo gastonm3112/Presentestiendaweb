@@ -1,0 +1,28 @@
+/*MIS FUENTES*/
+@import url('<link href="https://fonts.googleapis.com/css2?family=Mulish:wght@300&display=swap" rel="stylesheet">');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+/*MIS ESTILOS IMPORTADOS*/
+
+@import url('components/title.css');
+@import url('components/avatar.css');
+@import url('components/navbar.css');
+@import url('components/footer.css');
+
+
+
+body{
+	background: #6ebfb5;
+}
+
+h1{
+	font-family: 'Indie Flower', cursive;
+}
+
+h2,h3,h4{
+	font-family: 'Mulish', sans-serif;
+}
+
+p{
+	font-family: 'Mulish', sans-serif;
+}
